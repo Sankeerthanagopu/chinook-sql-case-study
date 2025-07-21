@@ -62,4 +62,4 @@ I’m a Master’s student in Business Analytics, and I’m building this projec
 
 ---
 
-Thanks for visiting, and more insights are on the way! 🚀
+Thanks for visiting, and more insights are on the way! 
